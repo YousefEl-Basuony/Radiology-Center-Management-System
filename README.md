@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Status-Ready%20for%20Delivery-brightgreen?style=for-the-badge" />
 </p>
 
-> **A complete desktop clinic management system** built for the Taybah Orthopedic Center.  
+> **A complete desktop clinic management system** built for the Taybah Radiology Center.  
 > Designed with full **Role-Based Access Control (RBAC)**, patient management, medical reports, appointment scheduling, and employee management — all in one unified dashboard.
 
 </div>
