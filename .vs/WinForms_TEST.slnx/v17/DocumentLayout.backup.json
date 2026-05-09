@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Radiology Center Management System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BEC65F72-AB2D-D267-BBEC-49C1AA926B15}|WinForms_TEST\\WinForms_TEST.csproj|c:\\users\\dell\\desktop\\radiology center management system\\winforms_test\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BEC65F72-AB2D-D267-BBEC-49C1AA926B15}|WinForms_TEST\\WinForms_TEST.csproj|c:\\users\\dell\\desktop\\radiology center management system\\winforms_test\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC65F72-AB2D-D267-BBEC-49C1AA926B15}|WinForms_TEST\\WinForms_TEST.csproj|solutionrelative:winforms_test\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC65F72-AB2D-D267-BBEC-49C1AA926B15}|WinForms_TEST\\WinForms_TEST.csproj|C:\\Users\\DELL\\Desktop\\Radiology Center Management System\\winforms_test\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BEC65F72-AB2D-D267-BBEC-49C1AA926B15}|WinForms_TEST\\WinForms_TEST.csproj|solutionrelative:winforms_test\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -39,14 +43,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Radiology Center Management System\\WinForms_TEST\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms_TEST\\Home.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Radiology Center Management System\\WinForms_TEST\\Home.Designer.cs",
+              "RelativeToolTip": "WinForms_TEST\\Home.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T14:41:44.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Home.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Radiology Center Management System\\WinForms_TEST\\Home.cs",
               "RelativeDocumentMoniker": "WinForms_TEST\\Home.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\Radiology Center Management System\\WinForms_TEST\\Home.cs [Design]",
               "RelativeToolTip": "WinForms_TEST\\Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-09T14:40:52.851Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-09T14:40:52.851Z"
             }
           ]
         }
