@@ -35,7 +35,7 @@
 
 ## 🔍 Overview
 
-The **Taybah Center Clinic Management System** is a Windows Forms desktop application developed as a graduation project for a medical informatics course. It digitizes the day-to-day operations of an orthopedic clinic — from patient registration and appointment booking to medical report generation and employee administration.
+The **Taybah Center Clinic Management System** is a Windows Forms desktop application developed as a graduation project for a medical informatics course. It digitizes the day-to-day operations of an Radiology Center — from patient registration and appointment booking to medical report generation and employee administration.
 
 The system enforces **three distinct user roles**: Admin (Manager/Doctor), Doctor, and Assistant — each with carefully scoped permissions to ensure both security and usability.
 
